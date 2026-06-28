@@ -96,11 +96,15 @@ The following data preparation steps were performed:
 
 ## 📈 Key Insights
 
-1.•	Over 4 years (2014–2017), the store went from $484K to $733K in sales- Sales grew 51% from 2014–2017, and 2017 was the best year yet. The business is healthy overall, but Profit margin 12.47% is quite low for retail business.
-2.•	West Region is the top-performing region by both sales ($725K) and profit ($108K). Central has the worst profit-to-sales ratio.
-3.•	Technology is the engine. Best sales AND best profit ($145K, 17.4% margin). Copiers generate the highest profit ($55.6K) on relatively modest sales.
-4.•	Furniture has $742K in sales but only $18K profit (2.5% Profit margin) — far below the 12.5% company average. Furniture is the silent problem where sub category Tables alone lost $17.7K. This category needs a pricing or cost audit.
-5.•	Orders with no discount generated nearly all of the company's $286K in profit. Orders discounted above 30% decreased profit -16.5%. Big discount Decreases profit margin.
+1.	Over 4 years (2014–2017), the store went from $484K to $733K in sales- Sales grew 51% from 2014–2017, and 2017 was the best year yet. The business is healthy overall, but Profit margin 12.47% is quite low for retail business.
+   
+2.	West Region is the top-performing region by both sales ($725K) and profit ($108K). Central has the worst profit-to-sales ratio.
+   
+3.	Technology is the engine. Best sales AND best profit ($145K, 17.4% margin). Copiers generate the highest profit ($55.6K) on relatively modest sales.
+   
+4.	Furniture has $742K in sales but only $18K profit (2.5% Profit margin) — far below the 12.5% company average. Furniture is the silent problem where sub category Tables alone lost $17.7K. This category needs a pricing or cost audit.
+   
+5.  Orders with no discount generated nearly all of the company's $286K in profit. Orders discounted above 30% decreased profit -16.5%. Big discount Decreases profit margin.
 
 
 ---
